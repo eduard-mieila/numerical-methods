@@ -7,7 +7,7 @@ Pe acest repo se află 3 aplicații pentru probleme ce se rezolvă folosind meto
 
 ## How to use
 
-Funțiile din fiecare parte se pot rula individual in GNU Octave/MATLAB. Pentru testarea corectitudinii lor de pot rula testele din folderul checker.
+Funțiile din fiecare parte se pot rula individual in GNU Octave/MATLAB. Pentru testarea corectitudinii lor se pot rula testele din folderul checker.
 
 
 ## Detalii suplimentare despre implementare
